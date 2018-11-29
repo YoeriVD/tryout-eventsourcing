@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\TFS\EventSourceDotNet" t="IncludeFlat">
+      <e p="EventSourceDotNet.Console" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EventSourceDotNet.Console.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="EventSourceDotNet.Console.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="EventSourceDotNet.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="EventSourceDotNet.Core.csproj" t="IncludeRecursive" />
+        <e p="Inventory.cs" t="Include" />
+        <e p="InventoryItem.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="EventSourceDotNet.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="EventSourceDotNet.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\vdammey\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vdammey\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_EventSourceDotNet.-257000816.00" t="ExcludeRecursive" />
+  </component>
+</project>

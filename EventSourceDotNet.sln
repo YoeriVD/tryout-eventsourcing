@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourceDotNet.Core", "EventSourceDotNet.Core\EventSourceDotNet.Core.csproj", "{9AD07650-8C3A-4B92-9328-74D43A7F92E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSourceDotNet.Console", "EventSourceDotNet.Console\EventSourceDotNet.Console.csproj", "{2449D684-CD36-4DAF-88A8-BF3AB5868876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AD07650-8C3A-4B92-9328-74D43A7F92E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AD07650-8C3A-4B92-9328-74D43A7F92E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AD07650-8C3A-4B92-9328-74D43A7F92E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AD07650-8C3A-4B92-9328-74D43A7F92E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2449D684-CD36-4DAF-88A8-BF3AB5868876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2449D684-CD36-4DAF-88A8-BF3AB5868876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2449D684-CD36-4DAF-88A8-BF3AB5868876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2449D684-CD36-4DAF-88A8-BF3AB5868876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

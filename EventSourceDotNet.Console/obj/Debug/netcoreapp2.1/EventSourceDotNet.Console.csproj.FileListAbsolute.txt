@@ -1,0 +1,2 @@
+C:\TFS\EventSourceDotNet\EventSourceDotNet.Console\bin\Debug\netcoreapp2.1\EventSourceDotNet.ConsoleApp.dll
+C:\TFS\EventSourceDotNet\EventSourceDotNet.Console\bin\Debug\netcoreapp2.1\EventSourceDotNet.Core.dll
